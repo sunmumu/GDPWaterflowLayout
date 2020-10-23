@@ -1,2 +1,2 @@
 # GDPWaterflowLayout
-宽相等瀑布流UICollectionViewLayout布局
+宽相等瀑布流布局UICollectionViewLayout
