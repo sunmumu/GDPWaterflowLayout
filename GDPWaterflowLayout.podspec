@@ -3,7 +3,7 @@
 
 Pod::Spec.new do |s|
   s.name         = 'GDPWaterflowLayout'
-  s.version      = '0.0.1'
+  s.version      = '0.0.2'
   s.summary      = '宽相等瀑布流布局UICollectionViewLayout'
   s.homepage     = 'https://github.com/sunmumu/GDPWaterflowLayout'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }

@@ -1,6 +1,10 @@
 # GDPWaterflowLayout
 宽相等瀑布流布局UICollectionViewLayout
 
+## 效果
+
+![宽相等瀑布流布局](https://github.com/sunmumu/GDPWaterflowLayout/blob/master/Demo/%E5%AE%BD%E7%9B%B8%E7%AD%89%E7%80%91%E5%B8%83%E6%B5%81%E6%95%88%E6%9E%9C%E5%9B%BE.PNG?raw=true)
+
 
 ## Use
 法一 cocopods引用
